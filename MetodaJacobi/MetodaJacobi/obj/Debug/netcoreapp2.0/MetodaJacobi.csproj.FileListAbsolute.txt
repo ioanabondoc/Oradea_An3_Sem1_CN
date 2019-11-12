@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\bin\Debug\netcoreapp2.0\MetodaJacobi.deps.json
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\bin\Debug\netcoreapp2.0\MetodaJacobi.runtimeconfig.json
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\bin\Debug\netcoreapp2.0\MetodaJacobi.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\bin\Debug\netcoreapp2.0\MetodaJacobi.dll
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\bin\Debug\netcoreapp2.0\MetodaJacobi.pdb
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.csprojResolveAssemblyReference.cache
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.AssemblyInfo.cs
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.dll
+C:\Users\Student\source\repos\MetodaJacobi\MetodaJacobi\obj\Debug\netcoreapp2.0\MetodaJacobi.pdb

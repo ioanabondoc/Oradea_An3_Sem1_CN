@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaJacobi", "MetodaJacobi\MetodaJacobi.csproj", "{7F49A6C7-D029-4A8B-9536-DEC5C984F152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F49A6C7-D029-4A8B-9536-DEC5C984F152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F49A6C7-D029-4A8B-9536-DEC5C984F152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F49A6C7-D029-4A8B-9536-DEC5C984F152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F49A6C7-D029-4A8B-9536-DEC5C984F152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87BBFC1F-1C97-484E-9F0B-F4D2E4C6D40E}
+	EndGlobalSection
+EndGlobal
